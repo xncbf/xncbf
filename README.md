@@ -21,7 +21,7 @@ class ItMe(Human):
 
 >>> ItMe.hi()
 hey 👋, i'm Ian
-currently i'm doing data @ shopify in 🇨🇦
+currently i work in data @ shopify in 🇨🇦
 i speak en-CA and 🐍v3.7
 some things i like: 🌯, 🏓, 💻, 🐍, 📊, 🏀, ☕️, 🍺, 🍷
 ```

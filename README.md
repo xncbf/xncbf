@@ -1,3 +1,4 @@
+[![Hits](https://hits.sh/github.com/xncbf.svg?view=today-total)](https://hits.sh/github.com/xncbf/)
 ```python
 from earth import Human
 

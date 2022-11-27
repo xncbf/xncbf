@@ -6,7 +6,7 @@ class ItMe(Human):
     last_name: str = "kim"
     resides_in: str = "🇰🇷"
     enjoys: List[str] = ["🍔", "💻", "🐍", "🐶", "🐈", "☕️", "🍺", "🍷"]
-    speaks: List[str] = ["ko-KR", "🐍v3.10"]
+    speaks: List[str] = ["ko-KR", "🐍v3.11"]
     web: str = "https://pypy.dev/"
     work_where: str = "FreeD Soft"
     work_what: str = "backend-engineer"
@@ -21,6 +21,6 @@ class ItMe(Human):
 >>> ItMe.hi()
 hey 👋, i'm Joon Hwan
 currently i work in backend-engineer @ FreeD Soft in 🇰🇷
-i speak ko-KR and 🐍v3.10
+i speak ko-KR and 🐍v3.11
 some things i like: 🍔, 💻, 🐍, 🐶, 🐈, ☕️, 🍺, 🍷
 ```

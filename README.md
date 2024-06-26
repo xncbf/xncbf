@@ -5,8 +5,8 @@ class ItMe(Human):
     first_name: str = "joon hwan"
     last_name: str = "kim"
     resides_in: str = "🇰🇷"
-    enjoys: List[str] = ["🍔", "💻", "🐍", "🐶", "🐈", "☕️", "🍺", "🍷"]
-    speaks: List[str] = ["ko-KR", "🐍v3.12"]
+    enjoys: list[str] = ["🍔", "💻", "🐍", "🐶", "🐈", "☕️", "🍺", "🍷"]
+    speaks: list[str] = ["ko-KR", "🐍v3.12"]
     web: str = "https://pypy.dev/"
     work_where: str = "FreeD Soft"
     work_what: str = "backend-engineer"

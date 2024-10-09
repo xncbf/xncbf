@@ -8,7 +8,7 @@ class ItMe(Human):
     enjoys: list[str] = ["🍔", "💻", "🐍", "🐶", "🐈", "☕️", "🍺", "🍷"]
     speaks: list[str] = ["ko-KR", "🐍v3.12"]
     web: str = "https://pypy.dev/"
-    work_where: str = "FreeD Soft"
+    work_where: str = "ab180"
     work_what: str = "backend-engineer"
 
     @classmethod
@@ -20,7 +20,7 @@ class ItMe(Human):
 
 >>> ItMe.hi()
 hey 👋, i'm Joon Hwan
-currently i work in backend-engineer @ FreeD Soft in 🇰🇷
+currently i work in backend-engineer @ab180 in 🇰🇷
 i speak ko-KR and 🐍v3.12
 some things i like: 🍔, 💻, 🐍, 🐶, 🐈, ☕️, 🍺, 🍷
 ```
